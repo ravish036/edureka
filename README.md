@@ -2,7 +2,7 @@
 <p align="center">Your Education Mate!<p>
 
 # About❓
-<bold><strong>edumate</strong></bold> is a learning website which helps user to explore the courses of their particular domain. Roadmaps are provided for the ease of user to clearly visualize the next steps for their particular course. Tutorials are provided for learning the course and with the help of giving quizes one can improve and check the progress. User can earn the goodies by reedeming the coins which they will earn by participating and correctly attempting the quiz.
+<bold><strong>edumate</strong></bold> is a learning website which helps user to explore the courses of their particular domain. Roadmaps are provided for the ease of user to clearly visualize the next steps for their particular course. Tutorials are provided for learning the course and with the help of giving quizes one can improve and check the progress. User can earn the goodies by redeeming the coins which they will earn by participating and correctly attempting the quiz.
 <a href="https://www.canva.com/design/DAFX2Dzs78w/YXHXErV7zJscN_2H6EMMxg/edit?utm_content=DAFX2Dzs78w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Click here to Know More! </a>
 
 # Features⚡
